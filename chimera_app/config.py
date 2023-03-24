@@ -46,6 +46,7 @@ PLATFORMS = {
     "gog":         "GOG",
     "jaguar":      "Jaguar",
     "sms":         "Master System",
+    "msdos":       "MS-DOS",
     "nds":         "Nintendo DS",
     "neo-geo":     "Neo Geo",
     "nes":         "Nintendo",
